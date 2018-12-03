@@ -9,4 +9,4 @@ SSilka:
 
 
 [//]: #
-	[ssilka]: <google.com>
+	[ssilka]: <www.google.com>
